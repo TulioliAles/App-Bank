@@ -1,0 +1,7 @@
+D:\ADM\Estudo_Dotnet_Framework\AppBank\AppBank\bin\Debug\AppBank.exe.config
+D:\ADM\Estudo_Dotnet_Framework\AppBank\AppBank\bin\Debug\AppBank.exe
+D:\ADM\Estudo_Dotnet_Framework\AppBank\AppBank\bin\Debug\AppBank.pdb
+D:\ADM\Estudo_Dotnet_Framework\AppBank\AppBank\obj\Debug\AppBank.csprojAssemblyReference.cache
+D:\ADM\Estudo_Dotnet_Framework\AppBank\AppBank\obj\Debug\AppBank.csproj.CoreCompileInputs.cache
+D:\ADM\Estudo_Dotnet_Framework\AppBank\AppBank\obj\Debug\AppBank.exe
+D:\ADM\Estudo_Dotnet_Framework\AppBank\AppBank\obj\Debug\AppBank.pdb

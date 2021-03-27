@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppBank", "AppBank\AppBank.csproj", "{FBC309EE-293A-4088-BCED-E3FC26BA5798}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBC309EE-293A-4088-BCED-E3FC26BA5798}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBC309EE-293A-4088-BCED-E3FC26BA5798}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBC309EE-293A-4088-BCED-E3FC26BA5798}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBC309EE-293A-4088-BCED-E3FC26BA5798}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {630936F8-A236-4A85-B5E0-8C64F3813D1C}
+	EndGlobalSection
+EndGlobal
